@@ -1,2 +1,2 @@
 # Web-Security-Labs-Journal
-These labs demonstrate practical skills in identifying and mitigating web security vulnerabilities.
+These labs demonstrate practical skills in identifying and mitigating web security vulnerabilities. This README includes detailed methodologies, findings, and screenshots as evidence of the work performed.
