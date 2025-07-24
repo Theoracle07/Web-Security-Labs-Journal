@@ -19,7 +19,7 @@ This lab demonstrates how subtle differences in server responses allow attackers
 
  📸 Screenshots
 See the `screenshots/` folder for step-by-step visuals  
-👉 [View screenshots Folder](./authentication/LAB-01-Username-Enumeration/screenshots.png)
+👉 [View screenshots Folder](screenshots.png)
 
 
 ---
