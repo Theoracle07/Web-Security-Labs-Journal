@@ -40,7 +40,7 @@ Identify a valid username by analyzing server responses, then brute-force the as
  📸 Screenshots
 
 _All relevant screenshots captured during the lab are available in this folder._  
-👉 [`authentication/screenshots/lab1/`](./screenshots/lab1)
+👉 ![Lab 01 Screenshot](authentication/LAB-01-Username-Enumeration/screenshots.png)
 
 ---
 
