@@ -1,2 +1,2 @@
 # Web-Security-Labs-Journal
-Web Security Labs Focused Real-world attack simulations, fixes, and professional documentation.
+These labs demonstrate practical skills in identifying and mitigating web security vulnerabilities.
