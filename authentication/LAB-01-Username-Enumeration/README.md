@@ -6,7 +6,7 @@ This lab demonstrates how subtle differences in server responses allow attackers
 
  🛠️ Environment
 - Burp Suite
-- Web browser (Edge)
+- Web browser (Chromium)
 
 ---
 
