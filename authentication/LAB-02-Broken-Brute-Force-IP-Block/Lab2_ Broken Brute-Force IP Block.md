@@ -29,7 +29,8 @@ In this lab, we bypass weak brute-force protection by alternating login requests
 - Payload 2 (Password):
   - Your actual password first (for successful login reset)
   - Then: candidate passwords for Carlos
-
+    
+    [View step3 python code automation](./step3_username-password_automation.py)
 ---
 
 ## 🧵 Step 4: Resource Pool Setup
