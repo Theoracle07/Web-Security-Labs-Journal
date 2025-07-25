@@ -7,7 +7,7 @@ This lab reveals how flawed brute-force protection mechanisms can be bypassed by
 ## 🛠️ Environment
 
 - Burp Suite (Intruder, Proxy, Resource Pool)
-- Web browser (Edge or Chrome)
+- Web browser (Chromium)
 
 ---
 
