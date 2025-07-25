@@ -18,8 +18,6 @@ In this lab, we bypass weak brute-force protection by alternating login requests
 - Use your account for this to test both success and failure behavior.
 - Send the intercepted request to **Intruder** for attack setup.
 
-🖼️ _See: `step2_proxy-login-capture.png`_
-
 ---
 
 ## 🎛️ Step 3: Configure Intruder (Pitchfork Mode)
@@ -32,8 +30,6 @@ In this lab, we bypass weak brute-force protection by alternating login requests
   - Your actual password first (for successful login reset)
   - Then: candidate passwords for Carlos
 
-🖼️ _See: `step3_intruder-pitchfork-setup.png`_
-
 ---
 
 ## 🧵 Step 4: Resource Pool Setup
@@ -41,8 +37,6 @@ In this lab, we bypass weak brute-force protection by alternating login requests
 - Create a **resource pool** in Burp.
 - Set **Maximum concurrent requests = 1** to preserve the login sequence.
 - This ensures each Carlos attempt is preceded by your legit login.
-
-🖼️ _See: `step4_resource-pool-config.png`_
 
 ---
 
@@ -55,16 +49,12 @@ In this lab, we bypass weak brute-force protection by alternating login requests
   - Response = `302`
 - That’s his valid password right there! 💥
 
-🖼️ _See: `step5_successful-hit-302.png`_
-
 ---
 
 ## 🔓 Step 6: Confirm the Login
 
 - Use the discovered password to log in as Carlos.
 - You should land on his account page.
-
-🖼️ _See: `step6_logged-in-carlos.png`_
 
 ---
 
@@ -83,3 +73,14 @@ In this lab, we bypass weak brute-force protection by alternating login requests
 - Track login attempts per user *and* IP
 - Avoid trusting client IP headers blindly
 
+  ---
+
+## 📸 Screenshots
+Visuals showing Burp configuration, attack setup, and successful login.
+👉 [`screenshots/`](./screenshots/)
+
+---
+
+## ✅ Status
+
+Lab successfully completed. Carlos’s password brute-forced and login confirmed. 🔓🎉
