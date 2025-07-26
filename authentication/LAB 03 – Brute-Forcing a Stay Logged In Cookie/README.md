@@ -23,6 +23,9 @@ Brute-force Carlos's "stay logged in" cookie to gain access to his account page.
 - MD5 hashing
 - Burp Intruder payload processing
 - Response fingerprinting
+
+  ## 📸 Screenshots 
+[View Screenshot Folder](./screenshots)
   
 ## ✅ Status
  🎉 Lab Solved
