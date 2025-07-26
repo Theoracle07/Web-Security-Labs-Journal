@@ -40,5 +40,9 @@ This lab demonstrates how weakly secured cookies can lead to offline password cr
 - Online MD5 hash lookup tool
 - Browser (Chromium)
 
+## 📸 Screenshots 
+[View Screenshot Folder](./screenshots)
+
+
 ## ✅ Status
 🎉 Lab Solved
