@@ -8,6 +8,7 @@ This lab reveals how flawed brute-force protection mechanisms can be bypassed by
 
 - Burp Suite (Intruder, Proxy, Resource Pool)
 - Web browser (Chromium)
+- VS Code
 
 ---
 
