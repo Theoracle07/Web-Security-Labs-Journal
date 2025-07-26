@@ -31,3 +31,14 @@ This lab demonstrates how weakly secured cookies can lead to offline password cr
 ✅ Obtain Carlos’s `stay-logged-in` cookie  
 ✅ Crack the password hash offline  
 ✅ Log in as Carlos and delete his account  
+
+
+## 🛠️ Tools Used
+
+- Burp Suite (Proxy, Decoder, Intruder)
+- Exploit Server
+- Online MD5 hash lookup tool
+- Browser (Chromium)
+
+## ✅ Status
+🎉 Lab Solved
