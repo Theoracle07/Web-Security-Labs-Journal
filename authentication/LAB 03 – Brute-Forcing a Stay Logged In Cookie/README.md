@@ -12,6 +12,6 @@ Brute-force Carlos's "stay logged in" cookie to gain access to his account page.
 - Burp Suite (Intruder, Decoder, and Grep Match features)
 - List of candidate passwords
 
-## Tools
+## 🛠️ Environment
 - Burpsuite
 - Browser (Chromium)
