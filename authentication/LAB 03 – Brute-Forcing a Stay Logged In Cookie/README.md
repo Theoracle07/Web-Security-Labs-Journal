@@ -24,7 +24,7 @@ Brute-force Carlos's "stay logged in" cookie to gain access to his account page.
 - Burp Intruder payload processing
 - Response fingerprinting
 
-  ## 📸 Screenshots 
+## 📸 Screenshots 
 [View Screenshot Folder](./screenshots)
   
 ## ✅ Status
