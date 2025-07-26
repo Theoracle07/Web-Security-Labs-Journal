@@ -15,3 +15,15 @@ Brute-force Carlos's "stay logged in" cookie to gain access to his account page.
 ## 🛠️ Environment
 - Burpsuite
 - Browser (Chromium)
+
+ 
+## 📑 Key Concepts
+
+- Base64 encoding
+- MD5 hashing
+- Burp Intruder payload processing
+- Response fingerprinting
+  
+## ✅ Status
+ 🎉 Lab Solved
+
