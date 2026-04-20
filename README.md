@@ -41,7 +41,7 @@ These PortSwigger labs are building the exact foundation I need to start as **IT
 - The importance of clear documentation (critical for SOC work)
 - That even when I don’t know the solution immediately, breaking problems down step-by-step always works — my core troubleshooting strength
 
-**Currently**: 300-level Cybersecurity student (CGPA now 3.3 and rising)  
+**Currently**: 300-level Cybersecurity student  
 **Preparing for**: IBM Technical Support Professional Certificate (financial aid applied, expected April 29 2026)  
 **Goal**: Land entry-level SOC Analyst L1 or IT Support role while building toward Cybersecurity Engineer
 
